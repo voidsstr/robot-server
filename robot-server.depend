@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1453433879 source:/home/odroid/robot-server/main.cpp
+	<cstdlib>
+	<iostream>
+	<thread>
+	<utility>
+	<boost/asio.hpp>
+
